@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Horison Bali",
+        "rating": 5,
+        "price": "1.000.000",
+        "room": "2",
+        "facilites": 10,
+        "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_534,q_40,w_800/hotelier-images/cd/26/5b4f94e25bb77fd3595f946d46a87b55ffe3c40fcb9e22ccf28c28741d05.jpeg",
+        "description": "Horison Bali offers a tranquil escape with modern amenities and traditional Balinese architecture. Located close to popular attractions, it's the perfect base for exploring the beauty of Bali."
+    },
+    {
+        "name": "The Legian Bali",
+        "rating": 5,
+        "price": "2.500.000",
+        "room": "3",
+        "facilites": 12,
+        "image": "https://theasiacollective.com/wp-content/uploads/2018/10/Hi_LW1897_89393993_LEG-pool3.jpg",
+        "description": "The Legian Bali is a luxury resort located on the beachfront of Seminyak. Known for its elegant suites, stunning ocean views, and exceptional service, it provides an unforgettable experience."
+    },
+    {
+        "name": "Four Seasons",
+        "rating": 5,
+        "price": "3.000.000",
+        "room": "4",
+        "facilites": 15,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/22113570.jpg?k=50944ce5e79a439a84781c80e40564ad174a0eb0955bcc5b5033469b4f44bfa7&o=&hp=1",
+        "description": "Four Seasons Bali at Jimbaran Bay is an iconic resort offering luxurious villas with private pools, breathtaking ocean views, and a rich cultural experience reflecting the spirit of Bali."
+    },
+    {
+        "name": "W Bali - Seminyak",
+        "rating": 5,
+        "price": "2.000.000",
+        "room": "3",
+        "facilites": 11,
+        "image": "https://images.trvl-media.com/lodging/4000000/3930000/3927700/3927638/3b7ae2ad.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "description": "W Bali - Seminyak is a vibrant beachfront resort known for its contemporary design, lively atmosphere, and exceptional dining options. It's the perfect destination for those seeking luxury with a modern twist."
+    },
+    {
+        "name": "Bvlgari Resort Bali",
+        "rating": 5,
+        "price": "4.000.000",
+        "room": "5",
+        "facilites": 14,
+        "image": "https://www.bulgarihotels.com/.imaging/bhr-standard-small-jpg/dam/BALI/Accommodation/One-Bedroom---Ocean-Cliff-Villa/One-Bedroom-Ocean-Cliff-Villa-2.jpg/jcr%3Acontent",
+        "description": "Bvlgari Resort Bali combines the traditional Balinese style with Italian luxury. Perched on a cliff, this resort offers stunning ocean views, a private beach, and world-class amenities."
+    },
+    {
+        "name": "The Mulia Bali",
+        "rating": 5,
+        "price": "2.200.000",
+        "room": "3",
+        "facilites": 13,
+        "image": "https://asset-2.tstatic.net/prohaba/foto/bank/images/Salah-satu-hotel-mewah-di-Bali-The-Mulia-Bali-masuk-penghargaan-Forbes-Travel-Guide-Five-star.jpg",
+        "description": "The Mulia Bali is an opulent resort offering luxurious suites, award-winning dining, and a spectacular beachfront location. It's an ideal destination for a lavish escape in Bali."
+    },
+    {
+        "name": "Alila Villas Uluwatu",
+        "rating": 5,
+        "price": "3.500.000",
+        "room": "4",
+        "facilites": 16,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376826791.jpg?k=1edd778734a86a16c5a283051fff02318edc8c05982626222cd02c4620c06e14&o=&hp=1",
+        "description": "Alila Villas Uluwatu offers an unparalleled luxury experience with stunning cliff-top views, private villas with pools, and a focus on sustainability and eco-friendly practices."
+    },
+    {
+        "name": "The Samaya",
+        "rating": 5,
+        "price": "2.800.000",
+        "room": "3",
+        "facilites": 12,
+        "image": "https://the-samaya-seminyak-hotel.hotelmix.id/data/Photos/OriginalPhoto/12833/1283372/1283372380/The-Samaya-Seminyak-Exterior.JPEG",
+        "description": "The Samaya offers a serene and luxurious escape in the heart of Seminyak. With private villas, personalized service, and a prime beachfront location, it provides a perfect retreat in Bali."
+    },
+    {
+        "name": "Mandapa Reserve",
+        "rating": 5,
+        "price": "3.200.000",
+        "room": "4",
+        "facilites": 14,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446985249.jpg?k=f6ba57f89604bdc029cf59bd73cd075764d8ea8faeaf7a168128854d364c0c44&o=&hp=1",
+        "description": "Mandapa, a Ritz-Carlton Reserve, is a sanctuary in the heart of Ubud, offering a blend of luxurious villas, lush tropical landscapes, and a deep connection to the local culture and environment."
+    },
+    {
+        "name": "Anantara Seminyak",
+        "rating": 5,
+        "price": "2.400.000",
+        "room": "3",
+        "facilites": 11,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/261511854.jpg?k=f129201ad82446d1f4efbb15f2a428fc755d177ce12e1febab9bcfda988ae3ae&o=&hp=1",
+        "description": "Anantara Seminyak Bali Resort offers contemporary luxury with direct access to Seminyak Beach. Enjoy stunning sunsets, world-class dining, and spacious suites designed for relaxation."
+    }
+]
